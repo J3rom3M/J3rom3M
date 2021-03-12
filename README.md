@@ -2,7 +2,7 @@
 
  ✨ I'm a junior backend web dev ✨
 
-Here are some ideas to get you started:
+where I am now: 
 
     🔭 I’m currently working on my diploma
     🌱 I’m currently learning Api-Plateform, React.JS
