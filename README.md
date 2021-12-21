@@ -4,12 +4,12 @@
 
 where I am now: 
 
-    🔭 I’m currently working on my portfolio with Vue.JS - Symfony - TailwindCSS
-    🌱 I’m currently learning Vue.JS, Api-Plateform, React.JS, Axios, TailwindCSS
-    👯 I’m looking to collaborate on my next job on web dev
+    🔭 I’m currently study at Webitech Paris in a work-study program as a web application designer
+    🌱 I’m currently learning Vue.JS, Api-Plateform, React.JS, Axios, TailwindCSS, EXT-JS
+    👯 I’m currently a work-study key account web developer for itool - ebp informatique
     🤔 I’m looking for help with some news project to collaborate
     💬 Ask me about my repos if you want to know anything, or on my profile
-    📫 How to reach me: go to my portfolio (in progress)
+    📫 How to reach me: go to my portfolio (in progress, sorry)
 
 
 
