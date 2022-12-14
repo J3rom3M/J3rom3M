@@ -4,12 +4,12 @@
 
 where I am now: 
 
-    🔭 I’m currently study at Webitech Paris in a work-study program as a web application designer
-    🌱 I’m currently learning Vue.JS, Api-Plateform, React.JS, Axios, TailwindCSS, EXT-JS
-    👯 I’m currently a work-study key account web developer for itool - ebp informatique
+    🔭  I recently graduated as an application developer designer at Webitech Paris in a work-study program.
+    🌱 I’m currently learning Vue.JS, PHP8, React.JS, Axios, Docker, EXT-JS & others
+    👯 I’m currently  looking for a job as a junior web developer
     🤔 I’m looking for help with some news project to collaborate
     💬 Ask me about my repos if you want to know anything, or on my profile
-    📫 How to reach me: go to my portfolio (in progress, sorry)
+    📫 How to reach me: go to my portfolio it's mine CV website
 
 
 
